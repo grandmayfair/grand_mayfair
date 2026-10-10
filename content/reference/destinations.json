@@ -1,0 +1,2261 @@
+[
+  {
+    "name": "Visakhapatnam",
+    "stayCountText": "3 stays",
+    "slug": "andhra-pradesh-visakhapatnam",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=andhra-pradesh-visakhapatnam",
+    "region": "Andhra Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Vijayawada",
+    "stayCountText": "3 stays",
+    "slug": "andhra-pradesh-vijayawada",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=andhra-pradesh-vijayawada",
+    "region": "Andhra Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Tirupati",
+    "stayCountText": "1 stays",
+    "slug": "andhra-pradesh-tirupati",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=andhra-pradesh-tirupati",
+    "region": "Andhra Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Araku Valley",
+    "stayCountText": "Travel desk",
+    "slug": "andhra-pradesh-araku-valley",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=andhra-pradesh-araku-valley",
+    "region": "Andhra Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Rajahmundry",
+    "stayCountText": "Travel desk",
+    "slug": "andhra-pradesh-rajahmundry",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=andhra-pradesh-rajahmundry",
+    "region": "Andhra Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Tawang",
+    "stayCountText": "Travel desk",
+    "slug": "arunachal-pradesh-tawang",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=arunachal-pradesh-tawang",
+    "region": "Arunachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Itanagar",
+    "stayCountText": "Travel desk",
+    "slug": "arunachal-pradesh-itanagar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=arunachal-pradesh-itanagar",
+    "region": "Arunachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ziro",
+    "stayCountText": "Travel desk",
+    "slug": "arunachal-pradesh-ziro",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=arunachal-pradesh-ziro",
+    "region": "Arunachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Bomdila",
+    "stayCountText": "Travel desk",
+    "slug": "arunachal-pradesh-bomdila",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=arunachal-pradesh-bomdila",
+    "region": "Arunachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Dirang",
+    "stayCountText": "Travel desk",
+    "slug": "arunachal-pradesh-dirang",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=arunachal-pradesh-dirang",
+    "region": "Arunachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Guwahati",
+    "stayCountText": "4 stays",
+    "slug": "assam-guwahati",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=assam-guwahati",
+    "region": "Assam",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kaziranga",
+    "stayCountText": "2 stays",
+    "slug": "assam-kaziranga",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=assam-kaziranga",
+    "region": "Assam",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Dibrugarh",
+    "stayCountText": "Travel desk",
+    "slug": "assam-dibrugarh",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=assam-dibrugarh",
+    "region": "Assam",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Jorhat",
+    "stayCountText": "Travel desk",
+    "slug": "assam-jorhat",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=assam-jorhat",
+    "region": "Assam",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Majuli",
+    "stayCountText": "Travel desk",
+    "slug": "assam-majuli",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=assam-majuli",
+    "region": "Assam",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Patna",
+    "stayCountText": "2 stays",
+    "slug": "bihar-patna",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=bihar-patna",
+    "region": "Bihar",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Bodh Gaya",
+    "stayCountText": "2 stays",
+    "slug": "bihar-bodh-gaya",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=bihar-bodh-gaya",
+    "region": "Bihar",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Rajgir",
+    "stayCountText": "Travel desk",
+    "slug": "bihar-rajgir",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=bihar-rajgir",
+    "region": "Bihar",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Nalanda",
+    "stayCountText": "Travel desk",
+    "slug": "bihar-nalanda",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=bihar-nalanda",
+    "region": "Bihar",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Vaishali",
+    "stayCountText": "Travel desk",
+    "slug": "bihar-vaishali",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=bihar-vaishali",
+    "region": "Bihar",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Raipur",
+    "stayCountText": "4 stays",
+    "slug": "chhattisgarh-raipur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=chhattisgarh-raipur",
+    "region": "Chhattisgarh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Jagdalpur",
+    "stayCountText": "Travel desk",
+    "slug": "chhattisgarh-jagdalpur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=chhattisgarh-jagdalpur",
+    "region": "Chhattisgarh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Bilaspur",
+    "stayCountText": "Travel desk",
+    "slug": "chhattisgarh-bilaspur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=chhattisgarh-bilaspur",
+    "region": "Chhattisgarh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Sirpur",
+    "stayCountText": "Travel desk",
+    "slug": "chhattisgarh-sirpur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=chhattisgarh-sirpur",
+    "region": "Chhattisgarh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mainpat",
+    "stayCountText": "Travel desk",
+    "slug": "chhattisgarh-mainpat",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=chhattisgarh-mainpat",
+    "region": "Chhattisgarh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "North Goa",
+    "stayCountText": "3 stays",
+    "slug": "goa-north-goa",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=goa-north-goa",
+    "region": "Goa",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "South Goa",
+    "stayCountText": "3 stays",
+    "slug": "goa-south-goa",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=goa-south-goa",
+    "region": "Goa",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Panaji",
+    "stayCountText": "3 stays",
+    "slug": "goa-panaji",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=goa-panaji",
+    "region": "Goa",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Candolim",
+    "stayCountText": "2 stays",
+    "slug": "goa-candolim",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=goa-candolim",
+    "region": "Goa",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Cavelossim",
+    "stayCountText": "3 stays",
+    "slug": "goa-cavelossim",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=goa-cavelossim",
+    "region": "Goa",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Palolem",
+    "stayCountText": "Travel desk",
+    "slug": "goa-palolem",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=goa-palolem",
+    "region": "Goa",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ahmedabad",
+    "stayCountText": "3 stays",
+    "slug": "gujarat-ahmedabad",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=gujarat-ahmedabad",
+    "region": "Gujarat",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Vadodara",
+    "stayCountText": "2 stays",
+    "slug": "gujarat-vadodara",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=gujarat-vadodara",
+    "region": "Gujarat",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Surat",
+    "stayCountText": "3 stays",
+    "slug": "gujarat-surat",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=gujarat-surat",
+    "region": "Gujarat",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Dwarka",
+    "stayCountText": "2 stays",
+    "slug": "gujarat-dwarka",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=gujarat-dwarka",
+    "region": "Gujarat",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Somnath",
+    "stayCountText": "Travel desk",
+    "slug": "gujarat-somnath",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=gujarat-somnath",
+    "region": "Gujarat",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Gir",
+    "stayCountText": "Travel desk",
+    "slug": "gujarat-gir",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=gujarat-gir",
+    "region": "Gujarat",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kutch",
+    "stayCountText": "Travel desk",
+    "slug": "gujarat-kutch",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=gujarat-kutch",
+    "region": "Gujarat",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Gurugram",
+    "stayCountText": "2 stays",
+    "slug": "haryana-gurugram",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=haryana-gurugram",
+    "region": "Haryana",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Faridabad",
+    "stayCountText": "3 stays",
+    "slug": "haryana-faridabad",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=haryana-faridabad",
+    "region": "Haryana",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kurukshetra",
+    "stayCountText": "Travel desk",
+    "slug": "haryana-kurukshetra",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=haryana-kurukshetra",
+    "region": "Haryana",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Panchkula",
+    "stayCountText": "Travel desk",
+    "slug": "haryana-panchkula",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=haryana-panchkula",
+    "region": "Haryana",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Morni Hills",
+    "stayCountText": "Travel desk",
+    "slug": "haryana-morni-hills",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=haryana-morni-hills",
+    "region": "Haryana",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Shimla",
+    "stayCountText": "1 stays",
+    "slug": "himachal-pradesh-shimla",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=himachal-pradesh-shimla",
+    "region": "Himachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Manali",
+    "stayCountText": "3 stays",
+    "slug": "himachal-pradesh-manali",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=himachal-pradesh-manali",
+    "region": "Himachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Dharamshala",
+    "stayCountText": "3 stays",
+    "slug": "himachal-pradesh-dharamshala",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=himachal-pradesh-dharamshala",
+    "region": "Himachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Dalhousie",
+    "stayCountText": "Travel desk",
+    "slug": "himachal-pradesh-dalhousie",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=himachal-pradesh-dalhousie",
+    "region": "Himachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kasauli",
+    "stayCountText": "2 stays",
+    "slug": "himachal-pradesh-kasauli",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=himachal-pradesh-kasauli",
+    "region": "Himachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kufri",
+    "stayCountText": "Travel desk",
+    "slug": "himachal-pradesh-kufri",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=himachal-pradesh-kufri",
+    "region": "Himachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Spiti Valley",
+    "stayCountText": "Travel desk",
+    "slug": "himachal-pradesh-spiti-valley",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=himachal-pradesh-spiti-valley",
+    "region": "Himachal Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ranchi",
+    "stayCountText": "3 stays",
+    "slug": "jharkhand-ranchi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jharkhand-ranchi",
+    "region": "Jharkhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Jamshedpur",
+    "stayCountText": "3 stays",
+    "slug": "jharkhand-jamshedpur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jharkhand-jamshedpur",
+    "region": "Jharkhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Deoghar",
+    "stayCountText": "Travel desk",
+    "slug": "jharkhand-deoghar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jharkhand-deoghar",
+    "region": "Jharkhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Netarhat",
+    "stayCountText": "Travel desk",
+    "slug": "jharkhand-netarhat",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jharkhand-netarhat",
+    "region": "Jharkhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Dhanbad",
+    "stayCountText": "Travel desk",
+    "slug": "jharkhand-dhanbad",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jharkhand-dhanbad",
+    "region": "Jharkhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Bengaluru",
+    "stayCountText": "2 stays",
+    "slug": "karnataka-bengaluru",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=karnataka-bengaluru",
+    "region": "Karnataka",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mysuru",
+    "stayCountText": "3 stays",
+    "slug": "karnataka-mysuru",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=karnataka-mysuru",
+    "region": "Karnataka",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Coorg",
+    "stayCountText": "3 stays",
+    "slug": "karnataka-coorg",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=karnataka-coorg",
+    "region": "Karnataka",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Hampi",
+    "stayCountText": "2 stays",
+    "slug": "karnataka-hampi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=karnataka-hampi",
+    "region": "Karnataka",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Chikmagalur",
+    "stayCountText": "3 stays",
+    "slug": "karnataka-chikmagalur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=karnataka-chikmagalur",
+    "region": "Karnataka",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kabini",
+    "stayCountText": "3 stays",
+    "slug": "karnataka-kabini",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=karnataka-kabini",
+    "region": "Karnataka",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Gokarna",
+    "stayCountText": "Travel desk",
+    "slug": "karnataka-gokarna",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=karnataka-gokarna",
+    "region": "Karnataka",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kochi",
+    "stayCountText": "4 stays",
+    "slug": "kerala-kochi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kerala-kochi",
+    "region": "Kerala",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Munnar",
+    "stayCountText": "4 stays",
+    "slug": "kerala-munnar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kerala-munnar",
+    "region": "Kerala",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Alappuzha",
+    "stayCountText": "2 stays",
+    "slug": "kerala-alappuzha",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kerala-alappuzha",
+    "region": "Kerala",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kumarakom",
+    "stayCountText": "3 stays",
+    "slug": "kerala-kumarakom",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kerala-kumarakom",
+    "region": "Kerala",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Thekkady",
+    "stayCountText": "3 stays",
+    "slug": "kerala-thekkady",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kerala-thekkady",
+    "region": "Kerala",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kovalam",
+    "stayCountText": "1 stays",
+    "slug": "kerala-kovalam",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kerala-kovalam",
+    "region": "Kerala",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Wayanad",
+    "stayCountText": "2 stays",
+    "slug": "kerala-wayanad",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kerala-wayanad",
+    "region": "Kerala",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Varkala",
+    "stayCountText": "Travel desk",
+    "slug": "kerala-varkala",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kerala-varkala",
+    "region": "Kerala",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Bhopal",
+    "stayCountText": "2 stays",
+    "slug": "madhya-pradesh-bhopal",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=madhya-pradesh-bhopal",
+    "region": "Madhya Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ujjain",
+    "stayCountText": "2 stays",
+    "slug": "madhya-pradesh-ujjain",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=madhya-pradesh-ujjain",
+    "region": "Madhya Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Pachmarhi",
+    "stayCountText": "1 stays",
+    "slug": "madhya-pradesh-pachmarhi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=madhya-pradesh-pachmarhi",
+    "region": "Madhya Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Indore",
+    "stayCountText": "4 stays",
+    "slug": "madhya-pradesh-indore",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=madhya-pradesh-indore",
+    "region": "Madhya Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Khajuraho",
+    "stayCountText": "3 stays",
+    "slug": "madhya-pradesh-khajuraho",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=madhya-pradesh-khajuraho",
+    "region": "Madhya Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Bandhavgarh",
+    "stayCountText": "1 stays",
+    "slug": "madhya-pradesh-bandhavgarh",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=madhya-pradesh-bandhavgarh",
+    "region": "Madhya Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kanha",
+    "stayCountText": "1 stays",
+    "slug": "madhya-pradesh-kanha",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=madhya-pradesh-kanha",
+    "region": "Madhya Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mumbai",
+    "stayCountText": "4 stays",
+    "slug": "maharashtra-mumbai",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=maharashtra-mumbai",
+    "region": "Maharashtra",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Pune",
+    "stayCountText": "5 stays",
+    "slug": "maharashtra-pune",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=maharashtra-pune",
+    "region": "Maharashtra",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Lonavala",
+    "stayCountText": "3 stays",
+    "slug": "maharashtra-lonavala",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=maharashtra-lonavala",
+    "region": "Maharashtra",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mahabaleshwar",
+    "stayCountText": "3 stays",
+    "slug": "maharashtra-mahabaleshwar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=maharashtra-mahabaleshwar",
+    "region": "Maharashtra",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Nashik",
+    "stayCountText": "3 stays",
+    "slug": "maharashtra-nashik",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=maharashtra-nashik",
+    "region": "Maharashtra",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Shirdi",
+    "stayCountText": "2 stays",
+    "slug": "maharashtra-shirdi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=maharashtra-shirdi",
+    "region": "Maharashtra",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Aurangabad",
+    "stayCountText": "Travel desk",
+    "slug": "maharashtra-aurangabad",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=maharashtra-aurangabad",
+    "region": "Maharashtra",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Imphal",
+    "stayCountText": "1 stays",
+    "slug": "manipur-imphal",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=manipur-imphal",
+    "region": "Manipur",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Loktak Lake",
+    "stayCountText": "Travel desk",
+    "slug": "manipur-loktak-lake",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=manipur-loktak-lake",
+    "region": "Manipur",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ukhrul",
+    "stayCountText": "Travel desk",
+    "slug": "manipur-ukhrul",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=manipur-ukhrul",
+    "region": "Manipur",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Moirang",
+    "stayCountText": "Travel desk",
+    "slug": "manipur-moirang",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=manipur-moirang",
+    "region": "Manipur",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Andro",
+    "stayCountText": "Travel desk",
+    "slug": "manipur-andro",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=manipur-andro",
+    "region": "Manipur",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Shillong",
+    "stayCountText": "3 stays",
+    "slug": "meghalaya-shillong",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=meghalaya-shillong",
+    "region": "Meghalaya",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Cherrapunji",
+    "stayCountText": "1 stays",
+    "slug": "meghalaya-cherrapunji",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=meghalaya-cherrapunji",
+    "region": "Meghalaya",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mawlynnong",
+    "stayCountText": "Travel desk",
+    "slug": "meghalaya-mawlynnong",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=meghalaya-mawlynnong",
+    "region": "Meghalaya",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Dawki",
+    "stayCountText": "Travel desk",
+    "slug": "meghalaya-dawki",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=meghalaya-dawki",
+    "region": "Meghalaya",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Jowai",
+    "stayCountText": "Travel desk",
+    "slug": "meghalaya-jowai",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=meghalaya-jowai",
+    "region": "Meghalaya",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Aizawl",
+    "stayCountText": "1 stays",
+    "slug": "mizoram-aizawl",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=mizoram-aizawl",
+    "region": "Mizoram",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Reiek",
+    "stayCountText": "Travel desk",
+    "slug": "mizoram-reiek",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=mizoram-reiek",
+    "region": "Mizoram",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Champhai",
+    "stayCountText": "Travel desk",
+    "slug": "mizoram-champhai",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=mizoram-champhai",
+    "region": "Mizoram",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Lunglei",
+    "stayCountText": "Travel desk",
+    "slug": "mizoram-lunglei",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=mizoram-lunglei",
+    "region": "Mizoram",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Hmuifang",
+    "stayCountText": "Travel desk",
+    "slug": "mizoram-hmuifang",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=mizoram-hmuifang",
+    "region": "Mizoram",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kohima",
+    "stayCountText": "1 stays",
+    "slug": "nagaland-kohima",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=nagaland-kohima",
+    "region": "Nagaland",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Dimapur",
+    "stayCountText": "1 stays",
+    "slug": "nagaland-dimapur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=nagaland-dimapur",
+    "region": "Nagaland",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mokokchung",
+    "stayCountText": "Travel desk",
+    "slug": "nagaland-mokokchung",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=nagaland-mokokchung",
+    "region": "Nagaland",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mon",
+    "stayCountText": "Travel desk",
+    "slug": "nagaland-mon",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=nagaland-mon",
+    "region": "Nagaland",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Wokha",
+    "stayCountText": "Travel desk",
+    "slug": "nagaland-wokha",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=nagaland-wokha",
+    "region": "Nagaland",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Bhubaneswar",
+    "stayCountText": "3 stays",
+    "slug": "odisha-bhubaneswar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=odisha-bhubaneswar",
+    "region": "Odisha",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Puri",
+    "stayCountText": "3 stays",
+    "slug": "odisha-puri",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=odisha-puri",
+    "region": "Odisha",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Konark",
+    "stayCountText": "Travel desk",
+    "slug": "odisha-konark",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=odisha-konark",
+    "region": "Odisha",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Gopalpur",
+    "stayCountText": "1 stays",
+    "slug": "odisha-gopalpur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=odisha-gopalpur",
+    "region": "Odisha",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Chilika",
+    "stayCountText": "Travel desk",
+    "slug": "odisha-chilika",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=odisha-chilika",
+    "region": "Odisha",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Cuttack",
+    "stayCountText": "Travel desk",
+    "slug": "odisha-cuttack",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=odisha-cuttack",
+    "region": "Odisha",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Amritsar",
+    "stayCountText": "3 stays",
+    "slug": "punjab-amritsar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=punjab-amritsar",
+    "region": "Punjab",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ludhiana",
+    "stayCountText": "3 stays",
+    "slug": "punjab-ludhiana",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=punjab-ludhiana",
+    "region": "Punjab",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Jalandhar",
+    "stayCountText": "Travel desk",
+    "slug": "punjab-jalandhar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=punjab-jalandhar",
+    "region": "Punjab",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Patiala",
+    "stayCountText": "Travel desk",
+    "slug": "punjab-patiala",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=punjab-patiala",
+    "region": "Punjab",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Anandpur Sahib",
+    "stayCountText": "Travel desk",
+    "slug": "punjab-anandpur-sahib",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=punjab-anandpur-sahib",
+    "region": "Punjab",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Jaipur",
+    "stayCountText": "3 stays",
+    "slug": "rajasthan-jaipur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=rajasthan-jaipur",
+    "region": "Rajasthan",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Udaipur",
+    "stayCountText": "3 stays",
+    "slug": "rajasthan-udaipur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=rajasthan-udaipur",
+    "region": "Rajasthan",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Jodhpur",
+    "stayCountText": "2 stays",
+    "slug": "rajasthan-jodhpur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=rajasthan-jodhpur",
+    "region": "Rajasthan",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Jaisalmer",
+    "stayCountText": "3 stays",
+    "slug": "rajasthan-jaisalmer",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=rajasthan-jaisalmer",
+    "region": "Rajasthan",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Pushkar",
+    "stayCountText": "3 stays",
+    "slug": "rajasthan-pushkar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=rajasthan-pushkar",
+    "region": "Rajasthan",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ranthambore",
+    "stayCountText": "3 stays",
+    "slug": "rajasthan-ranthambore",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=rajasthan-ranthambore",
+    "region": "Rajasthan",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mount Abu",
+    "stayCountText": "2 stays",
+    "slug": "rajasthan-mount-abu",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=rajasthan-mount-abu",
+    "region": "Rajasthan",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Bikaner",
+    "stayCountText": "Travel desk",
+    "slug": "rajasthan-bikaner",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=rajasthan-bikaner",
+    "region": "Rajasthan",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Gangtok",
+    "stayCountText": "2 stays",
+    "slug": "sikkim-gangtok",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=sikkim-gangtok",
+    "region": "Sikkim",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Pelling",
+    "stayCountText": "1 stays",
+    "slug": "sikkim-pelling",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=sikkim-pelling",
+    "region": "Sikkim",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Lachung",
+    "stayCountText": "Travel desk",
+    "slug": "sikkim-lachung",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=sikkim-lachung",
+    "region": "Sikkim",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Namchi",
+    "stayCountText": "Travel desk",
+    "slug": "sikkim-namchi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=sikkim-namchi",
+    "region": "Sikkim",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ravangla",
+    "stayCountText": "Travel desk",
+    "slug": "sikkim-ravangla",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=sikkim-ravangla",
+    "region": "Sikkim",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Chennai",
+    "stayCountText": "3 stays",
+    "slug": "tamil-nadu-chennai",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tamil-nadu-chennai",
+    "region": "Tamil Nadu",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ooty",
+    "stayCountText": "3 stays",
+    "slug": "tamil-nadu-ooty",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tamil-nadu-ooty",
+    "region": "Tamil Nadu",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kodaikanal",
+    "stayCountText": "3 stays",
+    "slug": "tamil-nadu-kodaikanal",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tamil-nadu-kodaikanal",
+    "region": "Tamil Nadu",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Madurai",
+    "stayCountText": "3 stays",
+    "slug": "tamil-nadu-madurai",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tamil-nadu-madurai",
+    "region": "Tamil Nadu",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mahabalipuram",
+    "stayCountText": "2 stays",
+    "slug": "tamil-nadu-mahabalipuram",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tamil-nadu-mahabalipuram",
+    "region": "Tamil Nadu",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Coimbatore",
+    "stayCountText": "2 stays",
+    "slug": "tamil-nadu-coimbatore",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tamil-nadu-coimbatore",
+    "region": "Tamil Nadu",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Rameswaram",
+    "stayCountText": "Travel desk",
+    "slug": "tamil-nadu-rameswaram",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tamil-nadu-rameswaram",
+    "region": "Tamil Nadu",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Hyderabad",
+    "stayCountText": "3 stays",
+    "slug": "telangana-hyderabad",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=telangana-hyderabad",
+    "region": "Telangana",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Warangal",
+    "stayCountText": "1 stays",
+    "slug": "telangana-warangal",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=telangana-warangal",
+    "region": "Telangana",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Nagarjuna Sagar",
+    "stayCountText": "Travel desk",
+    "slug": "telangana-nagarjuna-sagar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=telangana-nagarjuna-sagar",
+    "region": "Telangana",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ananthagiri Hills",
+    "stayCountText": "Travel desk",
+    "slug": "telangana-ananthagiri-hills",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=telangana-ananthagiri-hills",
+    "region": "Telangana",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Yadadri",
+    "stayCountText": "Travel desk",
+    "slug": "telangana-yadadri",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=telangana-yadadri",
+    "region": "Telangana",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Agartala",
+    "stayCountText": "1 stays",
+    "slug": "tripura-agartala",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tripura-agartala",
+    "region": "Tripura",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Unakoti",
+    "stayCountText": "Travel desk",
+    "slug": "tripura-unakoti",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tripura-unakoti",
+    "region": "Tripura",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Neermahal",
+    "stayCountText": "Travel desk",
+    "slug": "tripura-neermahal",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tripura-neermahal",
+    "region": "Tripura",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Jampui Hills",
+    "stayCountText": "Travel desk",
+    "slug": "tripura-jampui-hills",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tripura-jampui-hills",
+    "region": "Tripura",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Udaipur (Tripura)",
+    "stayCountText": "Travel desk",
+    "slug": "tripura-udaipur-tripura",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tripura-udaipur-tripura",
+    "region": "Tripura",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Agra",
+    "stayCountText": "2 stays",
+    "slug": "uttar-pradesh-agra",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttar-pradesh-agra",
+    "region": "Uttar Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Varanasi",
+    "stayCountText": "3 stays",
+    "slug": "uttar-pradesh-varanasi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttar-pradesh-varanasi",
+    "region": "Uttar Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Lucknow",
+    "stayCountText": "3 stays",
+    "slug": "uttar-pradesh-lucknow",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttar-pradesh-lucknow",
+    "region": "Uttar Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mathura",
+    "stayCountText": "Travel desk",
+    "slug": "uttar-pradesh-mathura",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttar-pradesh-mathura",
+    "region": "Uttar Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Vrindavan",
+    "stayCountText": "Travel desk",
+    "slug": "uttar-pradesh-vrindavan",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttar-pradesh-vrindavan",
+    "region": "Uttar Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Ayodhya",
+    "stayCountText": "Travel desk",
+    "slug": "uttar-pradesh-ayodhya",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttar-pradesh-ayodhya",
+    "region": "Uttar Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Prayagraj",
+    "stayCountText": "Travel desk",
+    "slug": "uttar-pradesh-prayagraj",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttar-pradesh-prayagraj",
+    "region": "Uttar Pradesh",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mussoorie",
+    "stayCountText": "3 stays",
+    "slug": "uttarakhand-mussoorie",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttarakhand-mussoorie",
+    "region": "Uttarakhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Nainital",
+    "stayCountText": "3 stays",
+    "slug": "uttarakhand-nainital",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttarakhand-nainital",
+    "region": "Uttarakhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Jim Corbett",
+    "stayCountText": "3 stays",
+    "slug": "uttarakhand-jim-corbett",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttarakhand-jim-corbett",
+    "region": "Uttarakhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Mukteshwar",
+    "stayCountText": "1 stays",
+    "slug": "uttarakhand-mukteshwar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttarakhand-mukteshwar",
+    "region": "Uttarakhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Auli",
+    "stayCountText": "Travel desk",
+    "slug": "uttarakhand-auli",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttarakhand-auli",
+    "region": "Uttarakhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Badrinath",
+    "stayCountText": "Travel desk",
+    "slug": "uttarakhand-badrinath",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttarakhand-badrinath",
+    "region": "Uttarakhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kedarnath",
+    "stayCountText": "Travel desk",
+    "slug": "uttarakhand-kedarnath",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttarakhand-kedarnath",
+    "region": "Uttarakhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Rishikesh",
+    "stayCountText": "2 stays",
+    "slug": "uttarakhand-rishikesh",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttarakhand-rishikesh",
+    "region": "Uttarakhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Dehradun",
+    "stayCountText": "3 stays",
+    "slug": "uttarakhand-dehradun",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=uttarakhand-dehradun",
+    "region": "Uttarakhand",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kolkata",
+    "stayCountText": "3 stays",
+    "slug": "west-bengal-kolkata",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=west-bengal-kolkata",
+    "region": "West Bengal",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Darjeeling",
+    "stayCountText": "3 stays",
+    "slug": "west-bengal-darjeeling",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=west-bengal-darjeeling",
+    "region": "West Bengal",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Kalimpong",
+    "stayCountText": "2 stays",
+    "slug": "west-bengal-kalimpong",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=west-bengal-kalimpong",
+    "region": "West Bengal",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Dooars",
+    "stayCountText": "Travel desk",
+    "slug": "west-bengal-dooars",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=west-bengal-dooars",
+    "region": "West Bengal",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Sundarbans",
+    "stayCountText": "Travel desk",
+    "slug": "west-bengal-sundarbans",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=west-bengal-sundarbans",
+    "region": "West Bengal",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Digha",
+    "stayCountText": "Travel desk",
+    "slug": "west-bengal-digha",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=west-bengal-digha",
+    "region": "West Bengal",
+    "kind": "State",
+    "type": "domestic"
+  },
+  {
+    "name": "Port Blair",
+    "stayCountText": "1 stays",
+    "slug": "andaman-and-nicobar-islands-port-blair",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=andaman-and-nicobar-islands-port-blair",
+    "region": "Andaman and Nicobar Islands",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Havelock Island",
+    "stayCountText": "3 stays",
+    "slug": "andaman-and-nicobar-islands-havelock-island",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=andaman-and-nicobar-islands-havelock-island",
+    "region": "Andaman and Nicobar Islands",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Neil Island",
+    "stayCountText": "1 stays",
+    "slug": "andaman-and-nicobar-islands-neil-island",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=andaman-and-nicobar-islands-neil-island",
+    "region": "Andaman and Nicobar Islands",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Baratang Island",
+    "stayCountText": "Travel desk",
+    "slug": "andaman-and-nicobar-islands-baratang-island",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=andaman-and-nicobar-islands-baratang-island",
+    "region": "Andaman and Nicobar Islands",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Diglipur",
+    "stayCountText": "Travel desk",
+    "slug": "andaman-and-nicobar-islands-diglipur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=andaman-and-nicobar-islands-diglipur",
+    "region": "Andaman and Nicobar Islands",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Chandigarh City",
+    "stayCountText": "3 stays",
+    "slug": "chandigarh-chandigarh-city",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=chandigarh-chandigarh-city",
+    "region": "Chandigarh",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Sukhna Lake",
+    "stayCountText": "Travel desk",
+    "slug": "chandigarh-sukhna-lake",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=chandigarh-sukhna-lake",
+    "region": "Chandigarh",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Rock Garden",
+    "stayCountText": "Travel desk",
+    "slug": "chandigarh-rock-garden",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=chandigarh-rock-garden",
+    "region": "Chandigarh",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Zirakpur Gateway",
+    "stayCountText": "Travel desk",
+    "slug": "chandigarh-zirakpur-gateway",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=chandigarh-zirakpur-gateway",
+    "region": "Chandigarh",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Panchkula Gateway",
+    "stayCountText": "Travel desk",
+    "slug": "chandigarh-panchkula-gateway",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=chandigarh-panchkula-gateway",
+    "region": "Chandigarh",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Silvassa",
+    "stayCountText": "2 stays",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu-silvassa",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=dadra-and-nagar-haveli-and-daman-and-diu-silvassa",
+    "region": "Dadra and Nagar Haveli and Daman and Diu",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Daman",
+    "stayCountText": "2 stays",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu-daman",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=dadra-and-nagar-haveli-and-daman-and-diu-daman",
+    "region": "Dadra and Nagar Haveli and Daman and Diu",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Diu",
+    "stayCountText": "Travel desk",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu-diu",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=dadra-and-nagar-haveli-and-daman-and-diu-diu",
+    "region": "Dadra and Nagar Haveli and Daman and Diu",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Khanvel",
+    "stayCountText": "Travel desk",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu-khanvel",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=dadra-and-nagar-haveli-and-daman-and-diu-khanvel",
+    "region": "Dadra and Nagar Haveli and Daman and Diu",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Dudhani",
+    "stayCountText": "Travel desk",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu-dudhani",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=dadra-and-nagar-haveli-and-daman-and-diu-dudhani",
+    "region": "Dadra and Nagar Haveli and Daman and Diu",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "New Delhi",
+    "stayCountText": "2 stays",
+    "slug": "delhi-new-delhi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=delhi-new-delhi",
+    "region": "Delhi",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Aerocity",
+    "stayCountText": "4 stays",
+    "slug": "delhi-aerocity",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=delhi-aerocity",
+    "region": "Delhi",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Connaught Place",
+    "stayCountText": "Travel desk",
+    "slug": "delhi-connaught-place",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=delhi-connaught-place",
+    "region": "Delhi",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "South Delhi",
+    "stayCountText": "Travel desk",
+    "slug": "delhi-south-delhi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=delhi-south-delhi",
+    "region": "Delhi",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Dwarka",
+    "stayCountText": "2 stays",
+    "slug": "delhi-dwarka",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=delhi-dwarka",
+    "region": "Delhi",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Srinagar",
+    "stayCountText": "3 stays",
+    "slug": "jammu-and-kashmir-srinagar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jammu-and-kashmir-srinagar",
+    "region": "Jammu and Kashmir",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Gulmarg",
+    "stayCountText": "2 stays",
+    "slug": "jammu-and-kashmir-gulmarg",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jammu-and-kashmir-gulmarg",
+    "region": "Jammu and Kashmir",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Pahalgam",
+    "stayCountText": "1 stays",
+    "slug": "jammu-and-kashmir-pahalgam",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jammu-and-kashmir-pahalgam",
+    "region": "Jammu and Kashmir",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Jammu",
+    "stayCountText": "2 stays",
+    "slug": "jammu-and-kashmir-jammu",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jammu-and-kashmir-jammu",
+    "region": "Jammu and Kashmir",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Sonamarg",
+    "stayCountText": "Travel desk",
+    "slug": "jammu-and-kashmir-sonamarg",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jammu-and-kashmir-sonamarg",
+    "region": "Jammu and Kashmir",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Leh",
+    "stayCountText": "3 stays",
+    "slug": "ladakh-leh",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=ladakh-leh",
+    "region": "Ladakh",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Nubra Valley",
+    "stayCountText": "1 stays",
+    "slug": "ladakh-nubra-valley",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=ladakh-nubra-valley",
+    "region": "Ladakh",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Pangong Lake",
+    "stayCountText": "Travel desk",
+    "slug": "ladakh-pangong-lake",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=ladakh-pangong-lake",
+    "region": "Ladakh",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Thiksey",
+    "stayCountText": "1 stays",
+    "slug": "ladakh-thiksey",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=ladakh-thiksey",
+    "region": "Ladakh",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Kargil",
+    "stayCountText": "Travel desk",
+    "slug": "ladakh-kargil",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=ladakh-kargil",
+    "region": "Ladakh",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Agatti",
+    "stayCountText": "Travel desk",
+    "slug": "lakshadweep-agatti",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=lakshadweep-agatti",
+    "region": "Lakshadweep",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Bangaram",
+    "stayCountText": "Travel desk",
+    "slug": "lakshadweep-bangaram",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=lakshadweep-bangaram",
+    "region": "Lakshadweep",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Kadmat",
+    "stayCountText": "Travel desk",
+    "slug": "lakshadweep-kadmat",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=lakshadweep-kadmat",
+    "region": "Lakshadweep",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Kavaratti",
+    "stayCountText": "Travel desk",
+    "slug": "lakshadweep-kavaratti",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=lakshadweep-kavaratti",
+    "region": "Lakshadweep",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Minicoy",
+    "stayCountText": "Travel desk",
+    "slug": "lakshadweep-minicoy",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=lakshadweep-minicoy",
+    "region": "Lakshadweep",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Puducherry City",
+    "stayCountText": "4 stays",
+    "slug": "puducherry-puducherry-city",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=puducherry-puducherry-city",
+    "region": "Puducherry",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "White Town",
+    "stayCountText": "2 stays",
+    "slug": "puducherry-white-town",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=puducherry-white-town",
+    "region": "Puducherry",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Auroville",
+    "stayCountText": "Travel desk",
+    "slug": "puducherry-auroville",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=puducherry-auroville",
+    "region": "Puducherry",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Karaikal",
+    "stayCountText": "Travel desk",
+    "slug": "puducherry-karaikal",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=puducherry-karaikal",
+    "region": "Puducherry",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Paradise Beach",
+    "stayCountText": "Travel desk",
+    "slug": "puducherry-paradise-beach",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=puducherry-paradise-beach",
+    "region": "Puducherry",
+    "kind": "Union Territory",
+    "type": "domestic"
+  },
+  {
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "stays": 5,
+    "slug": "dubai",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=dubai",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Dubai%20United%20Arab%20Emirates%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "stays": 5,
+    "slug": "abu-dhabi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=abu-dhabi",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Abu%20Dhabi%20United%20Arab%20Emirates%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Maldives",
+    "country": "Maldives",
+    "stays": 5,
+    "slug": "maldives",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=maldives",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Maldives%20Maldives%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Bali",
+    "country": "Indonesia",
+    "stays": 5,
+    "slug": "bali",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=bali",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Bali%20Indonesia%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Singapore",
+    "country": "Singapore",
+    "stays": 5,
+    "slug": "singapore",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=singapore",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Singapore%20Singapore%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Bangkok",
+    "country": "Thailand",
+    "stays": 5,
+    "slug": "bangkok",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=bangkok",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Bangkok%20Thailand%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Phuket",
+    "country": "Thailand",
+    "stays": 5,
+    "slug": "phuket",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=phuket",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Phuket%20Thailand%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "stays": 5,
+    "slug": "kuala-lumpur",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kuala-lumpur",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Kuala%20Lumpur%20Malaysia%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Langkawi",
+    "country": "Malaysia",
+    "stays": 5,
+    "slug": "langkawi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=langkawi",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Langkawi%20Malaysia%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "stays": 5,
+    "slug": "tokyo",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tokyo",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Tokyo%20Japan%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Kyoto",
+    "country": "Japan",
+    "stays": 5,
+    "slug": "kyoto",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kyoto",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Kyoto%20Japan%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Seoul",
+    "country": "South Korea",
+    "stays": 5,
+    "slug": "seoul",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=seoul",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Seoul%20South%20Korea%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Hong Kong",
+    "country": "Hong Kong",
+    "stays": 5,
+    "slug": "hong-kong",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=hong-kong",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Hong%20Kong%20Hong%20Kong%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Macau",
+    "country": "Macau",
+    "stays": 5,
+    "slug": "macau",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=macau",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Macau%20Macau%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Shanghai",
+    "country": "China",
+    "stays": 5,
+    "slug": "shanghai",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=shanghai",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Shanghai%20China%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Taipei",
+    "country": "Taiwan",
+    "stays": 5,
+    "slug": "taipei",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=taipei",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Taipei%20Taiwan%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Hanoi",
+    "country": "Vietnam",
+    "stays": 5,
+    "slug": "hanoi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=hanoi",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Hanoi%20Vietnam%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Da Nang",
+    "country": "Vietnam",
+    "stays": 5,
+    "slug": "da-nang",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=da-nang",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Da%20Nang%20Vietnam%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "stays": 5,
+    "slug": "ho-chi-minh-city",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=ho-chi-minh-city",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Ho%20Chi%20Minh%20City%20Vietnam%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Siem Reap",
+    "country": "Cambodia",
+    "stays": 5,
+    "slug": "siem-reap",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=siem-reap",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Siem%20Reap%20Cambodia%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Boracay",
+    "country": "Philippines",
+    "stays": 5,
+    "slug": "boracay",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=boracay",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Boracay%20Philippines%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Kathmandu",
+    "country": "Nepal",
+    "stays": 5,
+    "slug": "kathmandu",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kathmandu",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Kathmandu%20Nepal%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Paro",
+    "country": "Bhutan",
+    "stays": 5,
+    "slug": "paro",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=paro",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Paro%20Bhutan%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Colombo",
+    "country": "Sri Lanka",
+    "stays": 5,
+    "slug": "colombo",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=colombo",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Colombo%20Sri%20Lanka%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Dhaka",
+    "country": "Bangladesh",
+    "stays": 5,
+    "slug": "dhaka",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=dhaka",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Dhaka%20Bangladesh%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Doha",
+    "country": "Qatar",
+    "stays": 5,
+    "slug": "doha",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=doha",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Doha%20Qatar%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Muscat",
+    "country": "Oman",
+    "stays": 5,
+    "slug": "muscat",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=muscat",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Muscat%20Oman%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Riyadh",
+    "country": "Saudi Arabia",
+    "stays": 5,
+    "slug": "riyadh",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=riyadh",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Riyadh%20Saudi%20Arabia%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Jeddah",
+    "country": "Saudi Arabia",
+    "stays": 5,
+    "slug": "jeddah",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=jeddah",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Jeddah%20Saudi%20Arabia%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Manama",
+    "country": "Bahrain",
+    "stays": 5,
+    "slug": "manama",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=manama",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Manama%20Bahrain%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Kuwait City",
+    "country": "Kuwait",
+    "stays": 5,
+    "slug": "kuwait-city",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=kuwait-city",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Kuwait%20City%20Kuwait%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Amman",
+    "country": "Jordan",
+    "stays": 5,
+    "slug": "amman",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=amman",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Amman%20Jordan%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Istanbul",
+    "country": "Türkiye",
+    "stays": 5,
+    "slug": "istanbul",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=istanbul",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Istanbul%20T%C3%BCrkiye%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Baku",
+    "country": "Azerbaijan",
+    "stays": 5,
+    "slug": "baku",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=baku",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Baku%20Azerbaijan%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Yerevan",
+    "country": "Armenia",
+    "stays": 5,
+    "slug": "yerevan",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=yerevan",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Yerevan%20Armenia%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Tbilisi",
+    "country": "Georgia",
+    "stays": 5,
+    "slug": "tbilisi",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tbilisi",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Tbilisi%20Georgia%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Almaty",
+    "country": "Kazakhstan",
+    "stays": 5,
+    "slug": "almaty",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=almaty",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Almaty%20Kazakhstan%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Tashkent",
+    "country": "Uzbekistan",
+    "stays": 5,
+    "slug": "tashkent",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=tashkent",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Tashkent%20Uzbekistan%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Luang Prabang",
+    "country": "Laos",
+    "stays": 5,
+    "slug": "luang-prabang",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=luang-prabang",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Luang%20Prabang%20Laos%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "stays": 5,
+    "slug": "bandar-seri-begawan",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=bandar-seri-begawan",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Bandar%20Seri%20Begawan%20Brunei%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Ulaanbaatar",
+    "country": "Mongolia",
+    "stays": 5,
+    "slug": "ulaanbaatar",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=ulaanbaatar",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Ulaanbaatar%20Mongolia%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Bishkek",
+    "country": "Kyrgyzstan",
+    "stays": 5,
+    "slug": "bishkek",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=bishkek",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Bishkek%20Kyrgyzstan%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Dushanbe",
+    "country": "Tajikistan",
+    "stays": 5,
+    "slug": "dushanbe",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=dushanbe",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Dushanbe%20Tajikistan%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  },
+  {
+    "name": "Yangon",
+    "country": "Myanmar",
+    "stays": 5,
+    "slug": "yangon",
+    "sourceUrl": "https://grandsofitelclub.com/destination.php?slug=yangon",
+    "imageUrl": "https://tse2.mm.bing.net/th?q=Yangon%20Myanmar%20skyline%20tourism%20destination&pid=Api&w=1800&h=1200&c=7&rs=1&p=0",
+    "type": "international"
+  }
+]

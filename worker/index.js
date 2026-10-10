@@ -1,7 +1,7 @@
 import {api} from './api.js';
 import {identity,HttpError} from './auth.js';
 import assets from './assets.js';
-const routes={'/':'/index.html','/destinations':'/destinations.html','/membership':'/membership.html','/experiences':'/experiences.html','/about':'/about.html','/contact':'/contact.html','/login':'/login.html','/portal':'/portal.html','/admin':'/portal.html','/employee':'/portal.html','/customer':'/portal.html','/privacy':'/privacy.html','/booking-guidance':'/booking-guidance.html'};
+const routes={'/':'/index.html','/destinations':'/destinations.html','/membership':'/membership.html','/experiences':'/experiences.html','/about':'/about.html','/contact':'/contact.html','/login':'/login.html','/portal':'/portal.html','/admin':'/portal.html','/employee':'/portal.html','/customer':'/portal.html','/privacy':'/privacy.html','/booking-guidance':'/booking-guidance.html','/hotel':'/hotel.html','/hotels':'/hotels.html','/india':'/india.html','/international':'/international.html','/packages':'/packages.html','/travel-desk':'/travel-desk.html','/activities':'/activities.html','/customer-care':'/customer-care.html','/payment':'/payment.html','/terms':'/terms.html','/refund-cancellation':'/refund-cancellation.html','/disclaimer':'/disclaimer.html','/cookies':'/cookies.html'};
 export default {async fetch(request,env){
  const url=new URL(request.url);
  if(url.pathname.startsWith('/api/'))return api(request,env);

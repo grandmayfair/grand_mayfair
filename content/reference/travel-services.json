@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Air Ticketing Assistance",
+    "category": "Flights",
+    "sourceUrl": "https://grandsofitelclub.com/travel-desk.php"
+  },
+  {
+    "name": "Bus & Volvo",
+    "category": "Ground Travel",
+    "sourceUrl": "https://grandsofitelclub.com/travel-desk.php"
+  },
+  {
+    "name": "Hotel Coordination",
+    "category": "Stays",
+    "sourceUrl": "https://grandsofitelclub.com/travel-desk.php"
+  },
+  {
+    "name": "Taxi & Driver Assistance",
+    "category": "Local Transfers",
+    "sourceUrl": "https://grandsofitelclub.com/travel-desk.php"
+  }
+]

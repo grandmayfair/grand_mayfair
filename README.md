@@ -4,7 +4,9 @@ A complete hospitality and holiday membership website, with a database-backed cu
 
 ## Features
 
-- Public pages: home, destinations, membership, travel services, company story, contact, privacy, and booking guidance.
+- Public pages: home, hotels/property details, India/international, destinations, packages, activities, travel desk, membership, experiences, company story, contact, customer care, account access, payment information and policy guidance.
+- Searchable reference catalogue: 488 properties, 251 destinations, six holiday ideas and 12 activities. Hotel enquiries preserve the property and destination in the CRM.
+- Public motion: atmospheric hero, image parallax, staggered reveals, catalogue counters, reading progress and page transitions, with reduced-motion support.
 - Real enquiry submission with reference numbers and downloadable summaries.
 - Customers: their own enquiries, memberships, booking records, and profile.
 - Employees: assigned enquiries/customers, internal notes, travel proposals, and follow-ups.
@@ -44,10 +46,11 @@ Receipts are manual accounting records. Online payments, external email delivery
 ## Source layout
 
 - `public/`: shared styling, client interactions, portal UI, and photography.
-- `content/home.html` and `scripts/pages.mjs`: source templates for all marketing pages.
+- `content/home.html`, `scripts/pages.mjs`, `scripts/marketing.mjs` and `scripts/catalog-*.mjs`: source templates for the public pages.
+- `public/data/`: searchable catalogues. `content/reference/`: source facts and provenance; the reference company's commercial offers are retained separately from Grand Mayfair's approved terms.
 - `worker/`: API, verified identity and permissions, data helpers, and static asset routing.
 - `db/schema.ts`, `drizzle.config.ts`, `drizzle/`: Drizzle schema and generated migrations.
 - `scripts/build.mjs`: generates pages and the deployable Worker under `dist/server/`.
-- `scripts/verify.mjs`: meaningful API and public-route checks.
+- `scripts/verify.mjs`, `scripts/verify-public-ui.mjs`, `scripts/verify-hero.mjs` and `scripts/verify-catalogue.mjs`: API permissions, public routes, catalogue integrity, enquiry prefills and motion checks.
 
 Generate future schema-only migrations with `npm run db:generate`; retain Drizzle snapshots and journal. Never commit `.env`, `.sites-runtime`, credentials, or real customer records.

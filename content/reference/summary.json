@@ -1,0 +1,105 @@
+{
+  "source": "https://grandsofitelclub.com",
+  "hotelTotal": 488,
+  "hotelPages": [
+    {
+      "page": 1,
+      "count": 24
+    },
+    {
+      "page": 2,
+      "count": 24
+    },
+    {
+      "page": 3,
+      "count": 24
+    },
+    {
+      "page": 4,
+      "count": 24
+    },
+    {
+      "page": 5,
+      "count": 24
+    },
+    {
+      "page": 6,
+      "count": 24
+    },
+    {
+      "page": 7,
+      "count": 24
+    },
+    {
+      "page": 8,
+      "count": 24
+    },
+    {
+      "page": 9,
+      "count": 24
+    },
+    {
+      "page": 10,
+      "count": 24
+    },
+    {
+      "page": 11,
+      "count": 24
+    },
+    {
+      "page": 12,
+      "count": 24
+    },
+    {
+      "page": 13,
+      "count": 24
+    },
+    {
+      "page": 14,
+      "count": 24
+    },
+    {
+      "page": 15,
+      "count": 24
+    },
+    {
+      "page": 16,
+      "count": 24
+    },
+    {
+      "page": 17,
+      "count": 24
+    },
+    {
+      "page": 18,
+      "count": 24
+    },
+    {
+      "page": 19,
+      "count": 24
+    },
+    {
+      "page": 20,
+      "count": 24
+    },
+    {
+      "page": 21,
+      "count": 8
+    }
+  ],
+  "hotelImageSources": {
+    "bingSearchThumbnails": 481,
+    "other": 7,
+    "unique": 488,
+    "repeated": []
+  },
+  "domesticRegions": 36,
+  "domesticDestinations": 207,
+  "internationalDestinations": 44,
+  "packages": 6,
+  "domesticHotels": 268,
+  "internationalHotels": 220,
+  "unclassifiedHotels": [],
+  "activities": 12,
+  "travelServices": 4
+}

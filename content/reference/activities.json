@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Jet Skiing",
+    "category": "Water",
+    "symbol": "≈",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "Paragliding",
+    "category": "Air",
+    "symbol": "↗",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "River Rafting",
+    "category": "Adventure",
+    "symbol": "≋",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "Scuba Diving",
+    "category": "Water",
+    "symbol": "◉",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "Surfing",
+    "category": "Water",
+    "symbol": "∿",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "Desert Safari",
+    "category": "Desert",
+    "symbol": "△",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "Cable Car",
+    "category": "Leisure",
+    "symbol": "◇",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "Skydiving",
+    "category": "Air",
+    "symbol": "↓",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "Wildlife Safari",
+    "category": "Nature",
+    "symbol": "✦",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "Yacht Experience",
+    "category": "Luxury",
+    "symbol": "◒",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "Spa & Wellness",
+    "category": "Wellness",
+    "symbol": "✧",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  },
+  {
+    "name": "City Tours",
+    "category": "Culture",
+    "symbol": "⌂",
+    "sourceUrl": "https://grandsofitelclub.com/activities.php"
+  }
+]

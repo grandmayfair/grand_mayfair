@@ -1,0 +1,62 @@
+[
+  {
+    "name": "New York City Escape",
+    "destination": "New York",
+    "duration": "5N / 6D",
+    "category": "City",
+    "type": "international",
+    "imageUrl": "https://images.unsplash.com/photo-1522083165195-3424ed129620?auto=format&fit=crop&w=1200&q=85",
+    "enquiryUrl": "https://grandsofitelclub.com/contact.php?destination=New+York",
+    "sourceUrl": "https://grandsofitelclub.com/packages.php"
+  },
+  {
+    "name": "Turkey Discovery",
+    "destination": "Türkiye",
+    "duration": "6N / 7D",
+    "category": "Culture",
+    "type": "international",
+    "imageUrl": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=1200&q=85",
+    "enquiryUrl": "https://grandsofitelclub.com/contact.php?destination=T%C3%BCrkiye",
+    "sourceUrl": "https://grandsofitelclub.com/packages.php"
+  },
+  {
+    "name": "Kathmandu Himalayan Break",
+    "destination": "Nepal",
+    "duration": "4N / 5D",
+    "category": "Adventure",
+    "type": "international",
+    "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=85",
+    "enquiryUrl": "https://grandsofitelclub.com/contact.php?destination=Nepal",
+    "sourceUrl": "https://grandsofitelclub.com/packages.php"
+  },
+  {
+    "name": "Tokyo City Experience",
+    "destination": "Japan",
+    "duration": "5N / 6D",
+    "category": "City",
+    "type": "international",
+    "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=85",
+    "enquiryUrl": "https://grandsofitelclub.com/contact.php?destination=Japan",
+    "sourceUrl": "https://grandsofitelclub.com/packages.php"
+  },
+  {
+    "name": "Maldives Luxury Escape",
+    "destination": "Maldives",
+    "duration": "4N / 5D",
+    "category": "Beach",
+    "type": "international",
+    "imageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=1200&q=85",
+    "enquiryUrl": "https://grandsofitelclub.com/contact.php?destination=Maldives",
+    "sourceUrl": "https://grandsofitelclub.com/packages.php"
+  },
+  {
+    "name": "Rajasthan Heritage Circuit",
+    "destination": "India",
+    "duration": "6N / 7D",
+    "category": "Heritage",
+    "type": "domestic",
+    "imageUrl": "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=1200&q=85",
+    "enquiryUrl": "https://grandsofitelclub.com/contact.php?destination=India",
+    "sourceUrl": "https://grandsofitelclub.com/packages.php"
+  }
+]

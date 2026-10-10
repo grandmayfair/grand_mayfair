@@ -1,0 +1,161 @@
+{
+  "sourceUrl": "https://grandsofitelclub.com/membership.php",
+  "status": "Reference company offer only; not verified for Grand Mayfair",
+  "termYears": 25,
+  "rooms": [
+    {
+      "code": "T1",
+      "name": "Standard Room",
+      "rooms": 1,
+      "adults": 2,
+      "children": 2,
+      "childAgeUnder": 6,
+      "amcINR": 12000
+    },
+    {
+      "code": "T2",
+      "name": "Standard/Suite Room (wording inconsistent)",
+      "rooms": 2,
+      "adults": 4,
+      "children": 2,
+      "childAgeUnder": 6,
+      "amcINR": 18000
+    }
+  ],
+  "seasons": [
+    {
+      "name": "High Peak Season",
+      "color": "Purple",
+      "priceT1INR": 978000,
+      "priceT2INR": 1178000
+    },
+    {
+      "name": "Peak Season",
+      "color": "Red",
+      "priceT1INR": 802000,
+      "priceT2INR": 1002000
+    },
+    {
+      "name": "Mid Season",
+      "color": "Grey in cards / White in table",
+      "priceT1INR": 778000,
+      "priceT2INR": 978000
+    },
+    {
+      "name": "Off Season",
+      "color": "Blue",
+      "priceT1INR": 702000,
+      "priceT2INR": 902000
+    }
+  ],
+  "comparison": [
+    {
+      "period": "When the resorts are not packed",
+      "availableByColor": [
+        "Blue",
+        "White",
+        "Red",
+        "Purple"
+      ]
+    },
+    {
+      "period": "If you love the Monsoon season",
+      "availableByColor": [
+        "White",
+        "Red",
+        "Purple"
+      ]
+    },
+    {
+      "period": "During the work week",
+      "availableByColor": [
+        "White",
+        "Red",
+        "Purple"
+      ]
+    },
+    {
+      "period": "During School/College Vacations",
+      "availableByColor": [
+        "Red",
+        "Purple"
+      ]
+    },
+    {
+      "period": "On National Holidays",
+      "availableByColor": [
+        "Red",
+        "Purple"
+      ]
+    },
+    {
+      "period": "During Festivals",
+      "availableByColor": [
+        "Red",
+        "Purple"
+      ]
+    },
+    {
+      "period": "Any time of the year",
+      "availableByColor": [
+        "Purple"
+      ]
+    },
+    {
+      "period": "On Special Days i.e. New Year's Eve",
+      "availableByColor": [
+        "Purple"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "order": 1,
+      "heading": "Membership"
+    },
+    {
+      "order": 2,
+      "heading": "Membership Benefits Of Grand Sofitel Club Private Limited"
+    },
+    {
+      "order": 3,
+      "heading": "Luxury Spacious Rooms"
+    },
+    {
+      "order": 4,
+      "heading": "Additional Feature"
+    },
+    {
+      "order": 5,
+      "heading": "Apartment Categories"
+    },
+    {
+      "order": 6,
+      "heading": "Choose Your Travel Season"
+    },
+    {
+      "order": 7,
+      "heading": ""
+    },
+    {
+      "order": 8,
+      "heading": "AMC by Apartment Category"
+    },
+    {
+      "order": 9,
+      "heading": "Speak with our membership team."
+    }
+  ],
+  "unverifiedPromotions": [
+    "25-year package access",
+    "6 nights / 7 days at 500+ destinations",
+    "INR 10000+ international flight discount",
+    "Complimentary movies and holiday vouchers",
+    "Concierge without extra cost",
+    "Included cuisine benefits"
+  ],
+  "notes": [
+    "Season card text and eligibility table are inconsistent for Blue/Off Season monsoon access. Use the table as reference structure only until confirmed.",
+    "Membership prices, terms, perks and availability must not become Grand Mayfair contractual offers without client validation."
+  ]
+}
