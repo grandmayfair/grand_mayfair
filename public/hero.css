@@ -1,6 +1,6 @@
 .hero{isolation:isolate;--weather-travel:680px}
 .hero-scenes,.hero-scene,.hero-atmosphere{position:absolute;inset:0;pointer-events:none}
-.hero-scene{overflow:hidden;opacity:0;transition:opacity 1.4s ease;background:#173f35}
+.hero-scene{overflow:hidden;opacity:0;transition:opacity 1.4s ease;background:#173f35;container-type:size}
 .hero-scene.is-active{opacity:1}
 .hero-scene .hero-image{animation:hero-camera 24s ease-in-out infinite alternate;animation-play-state:paused;object-position:var(--focal,center);transform:scale(1.025)}
 .hero-scene.is-active .hero-image{animation-play-state:running}
@@ -8,6 +8,22 @@
 .hero-scene[data-scene="desert"]{--focal:center 57%;--camera-x:1%;--camera-y:-.5%}
 .hero-scene[data-scene="snow"]{--focal:center 46%;--camera-x:-.8%;--camera-y:.7%}
 .hero-scene[data-scene="city"]{--focal:center 48%;--camera-x:.4%;--camera-y:-.5%}
+.hero-photo-surface{position:absolute;--photo-x:50%;left:var(--photo-x);top:var(--photo-y);width:max(100cqw,calc(100cqh*var(--photo-ratio)));height:max(100cqh,calc(100cqw/var(--photo-ratio)));transform:translate(calc(var(--photo-x)*-1),calc(var(--photo-y)*-1)) scale(1.025);animation:hero-surface-camera 24s ease-in-out infinite alternate;animation-play-state:paused}
+.hero-scene[data-scene="ocean"] .hero-photo-surface{--photo-ratio:1.780415;--photo-y:52%}
+.hero-scene[data-scene="city"] .hero-photo-surface{--photo-ratio:1.500375;--photo-y:48%}
+.hero-scene.is-active .hero-photo-surface{animation-play-state:running}
+.hero-photo-surface .hero-image{animation:none;transform:none;object-fit:fill}
+.water-ripple{position:absolute;left:27%;top:-4%;width:73%;height:35%;background:repeating-radial-gradient(ellipse at 50% 100%,transparent 0 6px,rgba(210,249,242,.18) 7px 8px,transparent 9px 17px);background-size:155px 48px;mask-image:radial-gradient(ellipse,#000 12%,transparent 70%);filter:blur(.6px);opacity:.7;animation:water-flow 14s linear infinite}
+.water-ripple:nth-child(2){left:81%;top:5%;width:23%;height:95%;background-size:180px 62px;animation-duration:19s;animation-direction:reverse;opacity:.55}
+.water-glint{position:absolute;left:52%;top:12%;width:8%;height:1.2%;border-radius:50%;background:radial-gradient(ellipse,rgba(224,255,246,.85),transparent 70%);filter:blur(1px);animation:water-glint 7s ease-in-out infinite alternate;opacity:0}
+.water-glint:nth-child(4){left:74%;top:18%;width:5%;animation-delay:-3s;animation-duration:9s}
+.water-glint:nth-child(5){left:93%;top:50%;width:7%;animation-delay:-5s;animation-duration:8s}
+.city-traffic{width:100%;height:100%;mix-blend-mode:screen}
+.city-traffic path{fill:none;stroke:#fff0c6;stroke-width:2.7;stroke-linecap:round;stroke-dasharray:3 139;opacity:.64;filter:drop-shadow(0 0 2px #ffc877);animation:traffic-flow 18s linear infinite}
+.city-traffic path:nth-child(2){stroke:#ffd29c;stroke-dasharray:4 163;animation-duration:15s;animation-delay:-6s;animation-direction:reverse}
+.city-traffic path:nth-child(3){stroke-width:2;stroke-dasharray:2 173;animation-duration:21s;animation-delay:-11s}
+.city-cloud{position:absolute;left:-35%;top:3%;width:70%;height:22%;background:radial-gradient(ellipse,rgba(255,246,232,.17),rgba(255,249,240,.06) 35%,transparent 68%);filter:blur(22px);animation:cloud-drift 40s linear infinite}
+.city-cloud:nth-child(2){left:40%;top:12%;width:85%;height:17%;animation-duration:52s;animation-delay:-22s;opacity:.6}
 .hero-shade{z-index:2;background:linear-gradient(90deg,rgba(8,30,29,.68),rgba(8,30,29,.28) 53%,rgba(8,30,29,.09)),linear-gradient(0deg,rgba(8,30,29,.45),transparent 42%)}
 .hero-content,.hero-caption,.hero-slides{z-index:3}
 .hero-content>p:not(.eyebrow){text-shadow:0 1px 12px #142c2360}
@@ -37,13 +53,19 @@
 .pause-icon{width:9px;height:10px;border-left:2px solid currentColor;border-right:2px solid currentColor}
 .hero-pause[aria-pressed="true"] .pause-icon{width:0;height:0;border:5px solid transparent;border-left:8px solid currentColor;border-right:0}
 .hero-pause:disabled{opacity:.6;cursor:default}
-.hero.is-paused .hero-image,.hero.is-paused .hero-atmosphere,.hero.is-paused .hero-atmosphere *{animation-play-state:paused!important}
+.hero.is-paused .hero-image,.hero.is-paused .hero-photo-surface,.hero.is-paused .hero-atmosphere,.hero.is-paused .hero-atmosphere *{animation-play-state:paused!important}
 .hero.motion-reduced .hero-atmosphere{display:none}
 @keyframes hero-camera{from{transform:scale(1.025) translate3d(0,0,0)}to{transform:scale(1.09) translate3d(var(--camera-x,0),var(--camera-y,0),0)}}
+@keyframes hero-surface-camera{from{transform:translate(calc(var(--photo-x)*-1),calc(var(--photo-y)*-1)) scale(1.025)}to{transform:translate(calc(var(--photo-x)*-1),calc(var(--photo-y)*-1)) scale(1.09) translate3d(var(--camera-x,0),var(--camera-y,0),0)}}
+@keyframes water-flow{from{background-position:0 0;transform:translate3d(0,0,0)}to{background-position:155px 48px;transform:translate3d(8px,3px,0)}}
+@keyframes water-glint{0%,15%{opacity:.05;transform:scaleX(.55) translate3d(-8px,0,0)}65%,100%{opacity:.45;transform:scaleX(1.2) translate3d(12px,3px,0)}}
+@keyframes traffic-flow{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}
+@keyframes cloud-drift{from{transform:translate3d(-15%,0,0);opacity:.15}40%,70%{opacity:.85}to{transform:translate3d(65%,8px,0);opacity:.15}}
 @keyframes ocean-shimmer{from{opacity:.25;transform:translate3d(-1%,0,0)}to{opacity:1;transform:translate3d(1.5%,1%,0)}}
 @keyframes sand-flow{0%{transform:translate3d(0,16px,0) rotate(-5deg);opacity:0}18%{opacity:.65}65%{opacity:1}100%{transform:translate3d(200%, -32px,0) rotate(-9deg);opacity:0}}
 @keyframes sand-grain{0%{transform:translate3d(0,0,0);opacity:0}20%{opacity:var(--alpha)}80%{opacity:var(--alpha)}100%{transform:translate3d(150vw,calc(var(--rise)*-1),0);opacity:0}}
 @keyframes snow-fall{from{transform:translate3d(0,-20px,0)}to{transform:translate3d(var(--drift),var(--weather-travel),0)}}
 @media(max-width:760px){.hero{--weather-travel:610px}.hero-slides{left:26px;right:26px;bottom:84px;gap:13px}.hero-caption{bottom:28px;right:28px}.hero-caption strong{font-size:12px}.hero-dots{gap:3px}.hero-scene[data-scene="desert"]{--focal:60% 55%}.hero-scene[data-scene="snow"]{--focal:60% 46%}.hero-scene[data-scene="city"]{--focal:60% 48%}.sand-wisp{height:100px}.hero-pause .pause-label{font-size:11px}}
 @media(max-width:380px){.hero-slides{left:21px;right:21px;gap:10px}.hero-dots{gap:0}.hero-dots button{width:25px}.hero-slides>.hero-pause{padding:5px 9px}.hero-slides .hero-index{font-size:11px}.hero-slides .hero-index span{margin:0 5px}}
-@media(prefers-reduced-motion:reduce){.hero-scene{transition:none}.hero-scene .hero-image{animation:none;transform:none}.hero-atmosphere{display:none}}
+@media(max-width:760px){.hero-scene[data-scene="city"] .hero-photo-surface{--photo-x:60%}}
+@media(prefers-reduced-motion:reduce){.hero-scene{transition:none}.hero-scene .hero-image{animation:none;transform:none}.hero-photo-surface{animation:none}.hero-atmosphere{display:none}}
