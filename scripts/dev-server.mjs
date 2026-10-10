@@ -1,0 +1,14 @@
+import http from 'node:http';
+import fs from 'node:fs';
+import worker from '../dist/server/index.js';
+import {localDatabase} from './local-db.mjs';
+import {api} from '../worker/api.js';
+fs.mkdirSync('.sites-runtime',{recursive:true});
+const env={DB:localDatabase('.sites-runtime/preview.sqlite'),CRM_OWNER_EMAIL:'owner@grandmayfair.example'};
+const personas={admin:{id:'preview-owner',email:'owner@grandmayfair.example',name:'Grand Mayfair Administrator'},customer:{id:'preview-customer',email:'customer@grandmayfair.example',name:'Customer Preview'},employee:{id:'preview-employee',email:'employee@grandmayfair.example',name:'Employee Preview'}};
+const ownerHeaders={'oai-authenticated-user-id':personas.admin.id,'oai-authenticated-user-email':personas.admin.email,'Origin':'http://127.0.0.1:4173','Content-Type':'application/json'};
+await api(new Request('http://127.0.0.1:4173/api/session',{headers:ownerHeaders}),env);
+if(!env.DB.raw.prepare('SELECT id FROM users WHERE email=?').get(personas.employee.email))await api(new Request('http://127.0.0.1:4173/api/crm/users',{method:'POST',headers:ownerHeaders,body:JSON.stringify({name:personas.employee.name,email:personas.employee.email,role:'employee'})}),env);
+const server=http.createServer(async(req,res)=>{try{const url=new URL(req.url,'http://127.0.0.1:4173');const headers=new Headers();for(const [key,value]of Object.entries(req.headers))if(value)headers.set(key,Array.isArray(value)?value.join(','):value);const selected=url.searchParams.get('persona')||req.headers.cookie?.match(/(?:^|; )mayfair_preview=(admin|customer|employee)(?:;|$)/)?.[1]||'admin';const persona=personas[selected];if(persona){headers.set('oai-authenticated-user-id',persona.id);headers.set('oai-authenticated-user-email',persona.email);headers.set('oai-authenticated-user-full-name',encodeURIComponent(persona.name));headers.set('oai-authenticated-user-full-name-encoding','percent-encoded-utf-8');}const chunks=[];for await(const chunk of req)chunks.push(chunk);const body=Buffer.concat(chunks);const request=new Request(url,{method:req.method,headers,...(body.length?{body}:{}),duplex:'half'});const response=await worker.fetch(request,env);const responseHeaders=Object.fromEntries(response.headers);if(url.searchParams.has('persona')&&persona)responseHeaders['Set-Cookie']=`mayfair_preview=${selected}; Path=/; SameSite=Strict; HttpOnly`;res.writeHead(response.status,responseHeaders);res.end(Buffer.from(await response.arrayBuffer()));}catch(error){res.writeHead(500);res.end('Preview is unavailable.');console.error(error);}});
+server.listen(4173,'127.0.0.1',()=>console.log('Local: http://127.0.0.1:4173/'));
+process.on('SIGINT',()=>server.close(()=>{env.DB.close();process.exit(0);}));

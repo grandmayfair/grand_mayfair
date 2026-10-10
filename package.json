@@ -1,0 +1,13 @@
+{
+  "name": "grand-mayfair-website-crm",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/verify.mjs",
+    "dev": "node scripts/dev-server.mjs",
+    "db:generate": "drizzle-kit generate"
+  },
+  "dependencies": {"drizzle-orm":"0.45.2"},
+  "devDependencies": {"drizzle-kit":"0.31.10"}
+}
