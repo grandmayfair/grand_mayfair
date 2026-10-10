@@ -14,5 +14,5 @@ const assets={};
 const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml','.jpg':'image/jpeg','.jpeg':'image/jpeg','.png':'image/png','.webp':'image/webp','.xml':'application/xml','.txt':'text/plain; charset=utf-8'};
 function collect(folder){for(const entry of fs.readdirSync(folder,{withFileTypes:true})){const filename=path.join(folder,entry.name);if(entry.isDirectory())collect(filename);else{const extension=path.extname(filename);const binary=['.jpg','.jpeg','.png','.webp'].includes(extension);assets['/'+path.relative('public',filename).split(path.sep).join('/')]={type:types[extension]||'application/octet-stream',binary,content:fs.readFileSync(filename,binary?'base64':'utf8')};}}}
 collect('public');fs.writeFileSync('dist/server/assets.js',`export default ${JSON.stringify(assets)};\n`);
-fs.copyFileSync('.openai/hosting.json','dist/.openai/hosting.json');
+fs.copyFileSync('hosting.config.json','dist/.openai/hosting.json');
 console.log(`Built ${Object.keys(assets).length} website assets and the CRM Worker.`);

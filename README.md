@@ -15,7 +15,11 @@ A complete hospitality and holiday membership website, with a database-backed cu
 
 ## Hosting and authentication
 
-The deployment uses a Worker and the `DB` D1 binding declared in `.openai/hosting.json`. The platform applies the tracked Drizzle SQL migrations; no runtime schema changes occur. Keep the Site’s existing identity when deploying an update.
+The deployment uses a Worker and the `DB` D1 binding declared in `hosting.config.json`. The platform applies the tracked Drizzle SQL migrations; no runtime schema changes occur. Keep the Site’s existing identity when deploying an update.
+
+The build copies these settings to the host-required `dist/.openai/hosting.json`. Generated hosting folders are ignored by Git, so `.openai` is absent from the current repository file list. The configuration is still visible in `hosting.config.json`, and older commits retain the original folder.
+
+Sites publication uses the original hosting checkout, which retains a tracked `.openai/hosting.json` matching these settings. The Sites source helper requires that path in the committed source tree, so use that deployment checkout for publication rather than this GitHub export.
 
 Set the secret runtime environment variable `CRM_OWNER_EMAIL` to the Site owner's verified sign-in email. That account is the protected administrator. New authenticated users start as customers. An administrator can add an employee account using that person's verified email before their first sign-in. This creates an invitation record; it does not send email.
 
