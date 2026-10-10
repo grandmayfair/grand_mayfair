@@ -25,7 +25,7 @@
 .city-cloud{position:absolute;left:-35%;top:3%;width:70%;height:22%;background:radial-gradient(ellipse,rgba(255,246,232,.17),rgba(255,249,240,.06) 35%,transparent 68%);filter:blur(22px);animation:cloud-drift 40s linear infinite}
 .city-cloud:nth-child(2){left:40%;top:12%;width:85%;height:17%;animation-duration:52s;animation-delay:-22s;opacity:.6}
 .hero-shade{z-index:2;background:linear-gradient(90deg,rgba(8,30,29,.68),rgba(8,30,29,.28) 53%,rgba(8,30,29,.09)),linear-gradient(0deg,rgba(8,30,29,.45),transparent 42%)}
-.hero-content,.hero-caption,.hero-slides{z-index:3}
+.hero-content,.hero-slides{z-index:3}
 .hero-content>p:not(.eyebrow){text-shadow:0 1px 12px #142c2360}
 .hero-atmosphere{z-index:1;overflow:hidden}
 .hero-atmosphere *{animation-play-state:paused!important}
@@ -47,12 +47,6 @@
 .hero-dots button.selected:before{background:#fff;box-shadow:0 0 0 5px #ffffff1a}
 .hero-slides .hero-index{margin:0;font-size:12px;letter-spacing:.06em;white-space:nowrap}
 .hero-slides .hero-index span{margin:0 7px}
-.hero-slides>.hero-pause{display:inline-flex;width:auto;height:34px;gap:8px;padding:5px 11px;border:1px solid #ffffff50;border-radius:18px;color:#f8f7ef;font-size:11px;letter-spacing:.02em;background:#17392e1a;backdrop-filter:blur(5px)}
-.hero-pause:before{display:none!important}
-.hero-pause:hover{background:#ffffff20}
-.pause-icon{width:9px;height:10px;border-left:2px solid currentColor;border-right:2px solid currentColor}
-.hero-pause[aria-pressed="true"] .pause-icon{width:0;height:0;border:5px solid transparent;border-left:8px solid currentColor;border-right:0}
-.hero-pause:disabled{opacity:.6;cursor:default}
 .hero.is-paused .hero-image,.hero.is-paused .hero-photo-surface,.hero.is-paused .hero-atmosphere,.hero.is-paused .hero-atmosphere *{animation-play-state:paused!important}
 .hero.motion-reduced .hero-atmosphere{display:none}
 @keyframes hero-camera{from{transform:scale(1.025) translate3d(0,0,0)}to{transform:scale(1.09) translate3d(var(--camera-x,0),var(--camera-y,0),0)}}
@@ -65,7 +59,7 @@
 @keyframes sand-flow{0%{transform:translate3d(0,16px,0) rotate(-5deg);opacity:0}18%{opacity:.65}65%{opacity:1}100%{transform:translate3d(200%, -32px,0) rotate(-9deg);opacity:0}}
 @keyframes sand-grain{0%{transform:translate3d(0,0,0);opacity:0}20%{opacity:var(--alpha)}80%{opacity:var(--alpha)}100%{transform:translate3d(150vw,calc(var(--rise)*-1),0);opacity:0}}
 @keyframes snow-fall{from{transform:translate3d(0,-20px,0)}to{transform:translate3d(var(--drift),var(--weather-travel),0)}}
-@media(max-width:760px){.hero{--weather-travel:610px}.hero-slides{left:26px;right:26px;bottom:84px;gap:13px}.hero-caption{bottom:28px;right:28px}.hero-caption strong{font-size:12px}.hero-dots{gap:3px}.hero-scene[data-scene="desert"]{--focal:60% 55%}.hero-scene[data-scene="snow"]{--focal:60% 46%}.hero-scene[data-scene="city"]{--focal:60% 48%}.sand-wisp{height:100px}.hero-pause .pause-label{font-size:11px}}
-@media(max-width:380px){.hero-slides{left:21px;right:21px;gap:10px}.hero-dots{gap:0}.hero-dots button{width:25px}.hero-slides>.hero-pause{padding:5px 9px}.hero-slides .hero-index{font-size:11px}.hero-slides .hero-index span{margin:0 5px}}
+@media(max-width:760px){.hero{--weather-travel:610px}.hero-slides{left:26px;right:26px;bottom:40px;gap:13px}.hero-dots{gap:3px}.hero-scene[data-scene="desert"]{--focal:60% 55%}.hero-scene[data-scene="snow"]{--focal:60% 46%}.hero-scene[data-scene="city"]{--focal:60% 48%}.sand-wisp{height:100px}}
+@media(max-width:380px){.hero-slides{left:21px;right:21px;gap:10px}.hero-dots{gap:0}.hero-dots button{width:25px}.hero-slides .hero-index{font-size:11px}.hero-slides .hero-index span{margin:0 5px}}
 @media(max-width:760px){.hero-scene[data-scene="city"] .hero-photo-surface{--photo-x:60%}}
 @media(prefers-reduced-motion:reduce){.hero-scene{transition:none}.hero-scene .hero-image{animation:none;transform:none}.hero-photo-surface{animation:none}.hero-atmosphere{display:none}}
