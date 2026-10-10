@@ -3,8 +3,8 @@ import path from 'node:path';
 import {createHash} from 'node:crypto';
 import {createPages} from './pages.mjs';
 createPages();
-const revision=createHash('sha256').update(['app.js','portal.js','styles.css','site.css'].map(name=>fs.readFileSync('public/'+name,'utf8')).join('\n')).digest('hex').slice(0,12);
-for(const name of fs.readdirSync('public').filter(name=>name.endsWith('.html'))){const file='public/'+name;fs.writeFileSync(file,fs.readFileSync(file,'utf8').replace(/(src|href)="(\/(?:app\.js|portal\.js|styles\.css|site\.css))"/g,`$1="$2?v=${revision}"`));}
+const revision=createHash('sha256').update(['app.js','portal.js','styles.css','site.css','hero.css'].map(name=>fs.readFileSync('public/'+name,'utf8')).join('\n')).digest('hex').slice(0,12);
+for(const name of fs.readdirSync('public').filter(name=>name.endsWith('.html'))){const file='public/'+name;let html=fs.readFileSync(file,'utf8');if(name==='index.html')html=html.replace('</head>','<link rel="stylesheet" href="/hero.css"></head>');fs.writeFileSync(file,html.replace(/(src|href)="(\/(?:app\.js|portal\.js|styles\.css|site\.css|hero\.css))"/g,`$1="$2?v=${revision}"`));}
 const root=process.cwd();const dist=path.resolve(root,'dist');
 if(path.dirname(dist)!==root||path.basename(dist)!=='dist')throw new Error('Unsafe build output path');
 fs.rmSync(dist,{recursive:true,force:true});
