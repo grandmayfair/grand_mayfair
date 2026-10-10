@@ -75,8 +75,9 @@ async function createEnquiry(request,env,user,body,staff=false){
   const recent=await one(env,'SELECT COUNT(*) AS n FROM enquiries WHERE email=? AND created_at>?',values.email,new Date(Date.now()-600000).toISOString());if(recent.n>=5)fail('Please wait a few minutes before sending another enquiry.',429);
   if(values.checkin&&values.checkin<new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Kolkata'}).format(new Date()))fail('Choose a future travel date.');
  }
- const recordId=id();const keys=Object.keys(values);const insert=statement(env,`INSERT INTO enquiries (id,${keys.join(',')}) VALUES (?,${keys.map(()=>'?').join(',')})`,recordId,...keys.map(key=>values[key]));
- await db(env).batch(user?[insert,auditStatement(env,user,'created','enquiries',recordId)]:[insert]);return {id:recordId,reference:values.reference,status:'received'};
+ const recordId=id();const keys=Object.keys(values);const guarded=staff&&user.role==='employee'&&values.customer_id;
+ const insert=statement(env,`INSERT INTO enquiries (id,${keys.join(',')}) SELECT ?,${keys.map(()=>'?').join(',')} WHERE ${guarded?'EXISTS(SELECT 1 FROM enquiries e WHERE e.customer_id=? AND e.assigned_to=?)':'1=1'}`,recordId,...keys.map(key=>values[key]),...(guarded?[values.customer_id,user.id]:[]));
+ const result=await db(env).batch(user?[insert,auditStatement(env,user,'created','enquiries',recordId)]:[insert]);if(!result[0].meta.changes)fail('Customer assignment changed. Refresh and try again.',409);return {id:recordId,reference:values.reference,status:'received'};
 }
 async function updateEnquiry(env,user,body,recordId){
  requireRole(user,'admin','employee');const existing=await accessibleEnquiry(env,user,recordId);fields(body,['version','status','followup_date','assigned_to','customer_id']);
